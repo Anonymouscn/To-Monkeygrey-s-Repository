@@ -1,5 +1,5 @@
 # To-Monkeygrey-s-Repository
-This is a special repository for my only one (honey)
+这是我小灰灰的专属仓库（^o^）
 
 记录：
 ### date:2021.8.4
@@ -8,4 +8,5 @@ This is a special repository for my only one (honey)
 so  
 只给你个小任务，很简单哒  
 下载压缩包(里面有惊喜)  
-![下载压缩包](https://github.com/PGL888999/To-Monkeygrey-s-Repository/blob/main/%E7%BB%99%E5%B0%8F%E7%81%B0%E7%81%B0%E7%9A%84%E6%83%8A%E5%96%9C.zip)
+![下载压缩包](https://github.com/PGL888999/To-Monkeygrey-s-Repository/blob/main/%E7%BB%99%E5%B0%8F%E7%81%B0%E7%81%B0%E7%9A%84%E6%83%8A%E5%96%9C.zip)  
+但是呢，压缩包是有密码滴哦～我相信你能解开它的  
